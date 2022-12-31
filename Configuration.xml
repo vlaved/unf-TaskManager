@@ -65,7 +65,11 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Subsystem>CRM</Subsystem>
 			<Role>уз_ОсновнаяРоль</Role>
+			<Catalog>Контрагенты</Catalog>
+			<Catalog>КонтактныеЛица</Catalog>
+			<Document>уз_Задача</Document>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
