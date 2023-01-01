@@ -3,18 +3,31 @@
 	<ConfigVersions>
 		<Metadata name="Catalog.КонтактныеЛица" id="6066df8f-064b-4f3b-8607-3a94fa81d49f" configVersion="bdb9adc22dbc6a2a3577b59a85d13aa4775f2ab8"/>
 		<Metadata name="Catalog.Контрагенты" id="df4e423a-de6f-4dd5-a1d4-c2cb83564366" configVersion="1c1563d69e4e26bf7fabeb3159a5f977f0a474cc"/>
-		<Metadata name="Configuration.УчетЗадач" id="2bd898b8-5269-4fc2-a5d3-7a5dc73f6c66" configVersion="9890eadb9c2f7589c5714f8597f38808d9c444f6"/>
-		<Metadata name="Document.уз_Задача" id="8640a758-e40d-4436-8b0f-64e0f675383a" configVersion="04df6f5f0dde29bdcbfb0470a4b57a29aead59ed">
+		<Metadata name="Configuration.УчетЗадач" id="2bd898b8-5269-4fc2-a5d3-7a5dc73f6c66" configVersion="7850af572d5e680feb7fc4816e5013c9ab72eaad"/>
+		<Metadata name="Document.уз_Задача" id="8640a758-e40d-4436-8b0f-64e0f675383a" configVersion="dbb67a7cce77ea0e705aabafdc71fa343b0f0cc0">
+			<Metadata name="Document.уз_Задача.Attribute.СостояниеЗаявки" id="2da0b418-555e-4a12-935b-3c594ea2dbad"/>
 			<Metadata name="Document.уз_Задача.Attribute.Контрагент" id="3b3d1cac-ae1f-4ad4-adfe-9b038a3e82f3"/>
+			<Metadata name="Document.уз_Задача.Attribute.ДатаЗакрытия" id="55c5636f-58c2-4a8c-80e0-99680e8fb575"/>
 			<Metadata name="Document.уз_Задача.Attribute.Заголовок" id="ada2a63b-6621-469c-b8fe-a0746d93704e"/>
 			<Metadata name="Document.уз_Задача.Attribute.ОписаниеВременное" id="c6f9be21-b488-4040-8000-34b8297eb780"/>
-			<Metadata name="Document.уз_Задача.Attribute.Заказчик" id="f743619d-4b8f-476c-87a6-2717944685fc"/>
+			<Metadata name="Document.уз_Задача.Attribute.КонтактноеЛицо" id="f743619d-4b8f-476c-87a6-2717944685fc"/>
+			<Metadata name="Document.уз_Задача.Attribute.ЧасыФакт" id="fd2c5c43-7d4f-4f27-ba0f-2c1e5d429598"/>
 		</Metadata>
 		<Metadata name="Document.уз_Задача.Form.ФормаДокумента" id="71c69b7d-fdf4-4e6f-8932-c56cd7e39448" configVersion="622c8ca128436a5e82467b5071e422ff306b7069"/>
-		<Metadata name="Document.уз_Задача.Form.ФормаДокумента.Form" id="71c69b7d-fdf4-4e6f-8932-c56cd7e39448.0" configVersion="8d4c1edccb1d14757a101290ba4f8cfc64f2dd50"/>
+		<Metadata name="Document.уз_Задача.Form.ФормаДокумента.Form" id="71c69b7d-fdf4-4e6f-8932-c56cd7e39448.0" configVersion="e026f4c8667d270316ee6625c7320ede0157b238"/>
+		<Metadata name="Document.уз_Задача.Form.ФормаСписка" id="a35b6fda-8cb0-433d-a62c-79733273b003" configVersion="92f4b7cb01ef10fff6dc12e29e8848ca8787f725"/>
+		<Metadata name="Document.уз_Задача.Form.ФормаСписка.Form" id="a35b6fda-8cb0-433d-a62c-79733273b003.0" configVersion="8281ed3ec1d8cdd8130c0a94c381bc40d21c06da"/>
+		<Metadata name="Enum.уз_СостоянияЗаявки" id="d36788e1-7bdd-489d-91c7-cbf4e48e798d" configVersion="4f1ee1509a2f3b79d3f7f1ce04ed63900908e734">
+			<Metadata name="Enum.уз_СостоянияЗаявки.EnumValue.Отменена" id="89bbd148-e732-4fc1-8d8b-66b9cb1e2070"/>
+			<Metadata name="Enum.уз_СостоянияЗаявки.EnumValue.Выполнена" id="e7526d74-74f8-4179-8c50-8e11616deb4d"/>
+			<Metadata name="Enum.уз_СостоянияЗаявки.EnumValue.Принята" id="f8cf88df-6633-4607-b10b-d26c03c9942a"/>
+		</Metadata>
 		<Metadata name="Language.Русский" id="33509225-d76f-4855-84e0-f71ee975c60a" configVersion="addbea509d0c0c2e858c2013b522194f76b3b3b0"/>
+		<Metadata name="Report.уз_ОтчетПоЗадачам" id="1013a936-7c1e-4aa4-b65f-b8c41f247dba" configVersion="3db4faf3c92a103f37a2dd51e67510ad3ce7797d"/>
+		<Metadata name="Report.уз_ОтчетПоЗадачам.Template.ОсновнаяСхемаКомпоновкиДанных" id="6a0870f1-eee4-4991-a0e6-948ebc161fcb" configVersion="29823f390639f976105462bab6f6db83c636abd9"/>
+		<Metadata name="Report.уз_ОтчетПоЗадачам.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="6a0870f1-eee4-4991-a0e6-948ebc161fcb.0" configVersion="96bee89a43b6b1d225251ead4b7ff0ea76beba23"/>
 		<Metadata name="Role.уз_ОсновнаяРоль" id="6de4e017-9cab-44b9-8760-bb7f9523f8a1" configVersion="02dbdbbeb0f8d2e2ad71d3f26d13f51dfc8ffc81"/>
 		<Metadata name="Subsystem.CRM" id="db3b9df6-4ef4-4216-bb2f-31e4ae5f00f5" configVersion="c9bd429ed537fe10d13baba045e11f62dbebec37"/>
-		<Metadata name="Subsystem.CRM.Subsystem.ЗаказыИСчета" id="da30c117-d0da-4344-a1ea-de7473b0a68d" configVersion="105491443c795db66243bcbb93fd11863913cc8f"/>
+		<Metadata name="Subsystem.CRM.Subsystem.ЗаказыИСчета" id="da30c117-d0da-4344-a1ea-de7473b0a68d" configVersion="f73c403a49b6e20f74916ccf25d1d5356ee812cc"/>
 	</ConfigVersions>
 </ConfigDumpInfo>

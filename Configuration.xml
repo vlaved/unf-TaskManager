@@ -70,6 +70,8 @@
 			<Catalog>Контрагенты</Catalog>
 			<Catalog>КонтактныеЛица</Catalog>
 			<Document>уз_Задача</Document>
+			<Enum>уз_СостоянияЗаявки</Enum>
+			<Report>уз_ОтчетПоЗадачам</Report>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
