@@ -56,6 +56,9 @@
 					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 					<ContextMenu name="СостояниеЗаявкиКонтекстноеМеню" id="22"/>
 					<ExtendedTooltip name="СостояниеЗаявкиРасширеннаяПодсказка" id="23"/>
+					<Events>
+						<Event name="OnChange">СостояниеЗаявкиПриИзменении</Event>
+					</Events>
 				</InputField>
 				<InputField name="ДатаЗакрытия" id="24">
 					<DataPath>Объект.ДатаЗакрытия</DataPath>

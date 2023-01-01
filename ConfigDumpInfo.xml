@@ -14,7 +14,7 @@
 			<Metadata name="Document.уз_Задача.Attribute.ЧасыФакт" id="fd2c5c43-7d4f-4f27-ba0f-2c1e5d429598"/>
 		</Metadata>
 		<Metadata name="Document.уз_Задача.Form.ФормаДокумента" id="71c69b7d-fdf4-4e6f-8932-c56cd7e39448" configVersion="622c8ca128436a5e82467b5071e422ff306b7069"/>
-		<Metadata name="Document.уз_Задача.Form.ФормаДокумента.Form" id="71c69b7d-fdf4-4e6f-8932-c56cd7e39448.0" configVersion="e026f4c8667d270316ee6625c7320ede0157b238"/>
+		<Metadata name="Document.уз_Задача.Form.ФормаДокумента.Form" id="71c69b7d-fdf4-4e6f-8932-c56cd7e39448.0" configVersion="ba599e1df85a47dc0085b0e376243002d85396eb"/>
 		<Metadata name="Document.уз_Задача.Form.ФормаСписка" id="a35b6fda-8cb0-433d-a62c-79733273b003" configVersion="92f4b7cb01ef10fff6dc12e29e8848ca8787f725"/>
 		<Metadata name="Document.уз_Задача.Form.ФормаСписка.Form" id="a35b6fda-8cb0-433d-a62c-79733273b003.0" configVersion="8281ed3ec1d8cdd8130c0a94c381bc40d21c06da"/>
 		<Metadata name="Enum.уз_СостоянияЗаявки" id="d36788e1-7bdd-489d-91c7-cbf4e48e798d" configVersion="4f1ee1509a2f3b79d3f7f1ce04ed63900908e734">
