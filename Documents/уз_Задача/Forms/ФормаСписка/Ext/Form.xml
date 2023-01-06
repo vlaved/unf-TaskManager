@@ -96,7 +96,7 @@
 					<ExtendedTooltip name="КонтактноеЛицоРасширеннаяПодсказка" id="30"/>
 				</LabelField>
 				<LabelField name="СостояниеЗаявки" id="31">
-					<DataPath>Список.СостояниеЗаявки</DataPath>
+					<DataPath>~Список.СостояниеЗаявки</DataPath>
 					<ContextMenu name="СостояниеЗаявкиКонтекстноеМеню" id="32"/>
 					<ExtendedTooltip name="СостояниеЗаявкиРасширеннаяПодсказка" id="33"/>
 				</LabelField>

@@ -53,8 +53,8 @@
 			<DefaultRoles>
 				<xr:Item xsi:type="xr:MDObjectRef">Role.уз_ОсновнаяРоль</xr:Item>
 			</DefaultRoles>
-			<Vendor/>
-			<Version/>
+			<Vendor>ВедерниковВВ</Vendor>
+			<Version>1.0</Version>
 			<DefaultLanguage>Language.Русский</DefaultLanguage>
 			<BriefInformation/>
 			<DetailedInformation/>
@@ -69,8 +69,9 @@
 			<Role>уз_ОсновнаяРоль</Role>
 			<Catalog>Контрагенты</Catalog>
 			<Catalog>КонтактныеЛица</Catalog>
+			<Document>ЗаказПокупателя</Document>
 			<Document>уз_Задача</Document>
-			<Enum>уз_СостоянияЗаявки</Enum>
+			<Enum>уз_СостоянияЗадачи</Enum>
 			<Report>уз_ОтчетПоЗадачам</Report>
 		</ChildObjects>
 	</Configuration>

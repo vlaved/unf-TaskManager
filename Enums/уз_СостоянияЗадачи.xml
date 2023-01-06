@@ -2,25 +2,25 @@
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
 	<Enum uuid="d36788e1-7bdd-489d-91c7-cbf4e48e798d">
 		<InternalInfo>
-			<xr:GeneratedType name="EnumRef.уз_СостоянияЗаявки" category="Ref">
+			<xr:GeneratedType name="EnumRef.уз_СостоянияЗадачи" category="Ref">
 				<xr:TypeId>f81c5656-d367-47d7-be51-6c1d6e9a9f42</xr:TypeId>
 				<xr:ValueId>a60e6373-847e-48af-8655-a6dc1df9af7c</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="EnumManager.уз_СостоянияЗаявки" category="Manager">
+			<xr:GeneratedType name="EnumManager.уз_СостоянияЗадачи" category="Manager">
 				<xr:TypeId>770a8f34-5ae4-4ced-a569-44ccff55380f</xr:TypeId>
 				<xr:ValueId>fbb113c4-a3dc-46ca-83ea-0c55a90a00f3</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="EnumList.уз_СостоянияЗаявки" category="List">
+			<xr:GeneratedType name="EnumList.уз_СостоянияЗадачи" category="List">
 				<xr:TypeId>f7ec63e2-4985-4a2f-aa24-72d1eacd54d5</xr:TypeId>
 				<xr:ValueId>1dfd1924-f273-46e0-ba34-bd9926936aae</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
-			<Name>уз_СостоянияЗаявки</Name>
+			<Name>уз_СостоянияЗадачи</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Состояния заявки</v8:content>
+					<v8:content>Состояния задачи</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
