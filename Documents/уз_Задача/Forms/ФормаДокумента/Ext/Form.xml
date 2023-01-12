@@ -177,6 +177,14 @@
 							<ContextMenu name="ОписаниеФорматированноеКонтекстноеМеню" id="47"/>
 							<ExtendedTooltip name="ОписаниеФорматированноеРасширеннаяПодсказка" id="48"/>
 						</FormattedDocumentField>
+						<InputField name="Комментарий" id="51">
+							<DataPath>Объект.Комментарий</DataPath>
+							<AutoMaxWidth>false</AutoMaxWidth>
+							<MultiLine>true</MultiLine>
+							<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+							<ContextMenu name="КомментарийКонтекстноеМеню" id="52"/>
+							<ExtendedTooltip name="КомментарийРасширеннаяПодсказка" id="53"/>
+						</InputField>
 					</ChildItems>
 				</Page>
 				<Page name="ГруппаДополнительно" id="38">

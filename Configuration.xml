@@ -66,12 +66,32 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Subsystem>CRM</Subsystem>
+			<StyleItem>ИтогиФонГруппы</StyleItem>
+			<StyleItem>СветлыйСерый</StyleItem>
+			<StyleItem>ПоясняющийТекст</StyleItem>
+			<StyleItem>ФонУправляющегоПоля</StyleItem>
+			<StyleItem>ЦветГиперссылки</StyleItem>
+			<StyleItem>ЦветШрифтаНаименованияПоля</StyleItem>
+			<CommonPicture>Наборы</CommonPicture>
+			<CommonPicture>ПодчиненныеЭлементы</CommonPicture>
+			<CommonPicture>Органайзер</CommonPicture>
+			<CommonPicture>Набор</CommonPicture>
+			<CommonPicture>СтатусыСерийНоменклатуры</CommonPicture>
+			<CommonPicture>ОтправитьЭлектронноеПисьмо</CommonPicture>
+			<CommonPicture>СостояниеОригиналаПервичногоДокументаОригиналНеПолучен</CommonPicture>
 			<Role>уз_ОсновнаяРоль</Role>
+			<CommonModule>уз_РаботаСФормами</CommonModule>
 			<Catalog>Контрагенты</Catalog>
 			<Catalog>КонтактныеЛица</Catalog>
 			<Document>ЗаказПокупателя</Document>
 			<Document>уз_Задача</Document>
 			<Enum>уз_СостоянияЗадачи</Enum>
+			<Enum>ТипыДенежныхСредств</Enum>
+			<Enum>ВариантыЗавершенияЗаказа</Enum>
+			<Enum>СпособыДоставки</Enum>
+			<Enum>ВариантыЗаполненияРасшифровкиПлатежа</Enum>
+			<Enum>ТипыДокументовЭДО</Enum>
+			<Enum>СервисыДоставки</Enum>
 			<Report>уз_ОтчетПоЗадачам</Report>
 		</ChildObjects>
 	</Configuration>
