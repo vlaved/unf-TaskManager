@@ -15,7 +15,7 @@
 		<Metadata name="Configuration.УчетЗадач" id="2bd898b8-5269-4fc2-a5d3-7a5dc73f6c66" configVersion="6fbf2f5357f09f8b31b462ef445861f0e49dcce4"/>
 		<Metadata name="Document.ЗаказПокупателя" id="276da74b-6f84-4cc5-a179-4fe56a3b8133" configVersion="e78bcecb84bd3ee7673163c552a67cac5b306be3"/>
 		<Metadata name="Document.ЗаказПокупателя.Form.ФормаДокумента" id="5c403676-8a48-45ee-b830-019640ffe77c" configVersion="2b8d5ae522a1332603552e0630576eaea371f83a"/>
-		<Metadata name="Document.ЗаказПокупателя.Form.ФормаДокумента.Form" id="5c403676-8a48-45ee-b830-019640ffe77c.0" configVersion="6d6372647e5293545196b5337d61a457f6ac7b13"/>
+		<Metadata name="Document.ЗаказПокупателя.Form.ФормаДокумента.Form" id="5c403676-8a48-45ee-b830-019640ffe77c.0" configVersion="f5cd6b4f8346c062773ba4fc9cd8d0a6dcfde9ae"/>
 		<Metadata name="Document.уз_Задача" id="8640a758-e40d-4436-8b0f-64e0f675383a" configVersion="bc7623d4b3496a6129c8dd4b871737fb97926072">
 			<Metadata name="Document.уз_Задача.Attribute.Комментарий" id="12b6b4f5-757d-41c8-b74d-4f3573fdedff"/>
 			<Metadata name="Document.уз_Задача.Attribute.ЧасыПлан" id="22419c4e-50a4-48e9-a579-64b5d28fd00e"/>
