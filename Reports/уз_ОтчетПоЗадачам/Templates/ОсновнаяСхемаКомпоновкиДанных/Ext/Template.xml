@@ -181,6 +181,18 @@
 					<dcsset:comparisonType>Equal</dcsset:comparisonType>
 					<dcsset:userSettingID>e74dd6b4-120a-42ed-81cf-2512e7822278</dcsset:userSettingID>
 				</dcsset:item>
+				<dcsset:item xsi:type="dcsset:FilterItemComparison">
+					<dcsset:left xsi:type="dcscor:Field">Состояние</dcsset:left>
+					<dcsset:comparisonType>NotEqual</dcsset:comparisonType>
+					<dcsset:right xsi:type="dcscor:DesignTimeValue">Перечисление.уз_СостоянияЗадачи.Отменена</dcsset:right>
+					<dcsset:presentation xsi:type="v8:LocalStringType">
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Не показывать отмененные</v8:content>
+						</v8:item>
+					</dcsset:presentation>
+					<dcsset:userSettingID>02189064-b182-4b2a-b697-343425f5dad7</dcsset:userSettingID>
+				</dcsset:item>
 			</dcsset:filter>
 			<dcsset:outputParameters>
 				<dcscor:item xsi:type="dcsset:SettingsParameterValue">

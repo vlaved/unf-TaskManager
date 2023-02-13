@@ -14,8 +14,8 @@
 		<Metadata name="CommonPicture.СтатусыСерийНоменклатуры" id="3817bef0-5704-4aa8-81b8-38e586c72916" configVersion="8705cdc9871c8fa0bf72f780e3363a12fa52ad80"/>
 		<Metadata name="Configuration.УчетЗадач" id="2bd898b8-5269-4fc2-a5d3-7a5dc73f6c66" configVersion="6fbf2f5357f09f8b31b462ef445861f0e49dcce4"/>
 		<Metadata name="Document.ЗаказПокупателя" id="276da74b-6f84-4cc5-a179-4fe56a3b8133" configVersion="e78bcecb84bd3ee7673163c552a67cac5b306be3"/>
-		<Metadata name="Document.ЗаказПокупателя.Form.ФормаДокумента" id="5c403676-8a48-45ee-b830-019640ffe77c" configVersion="2b8d5ae522a1332603552e0630576eaea371f83a"/>
-		<Metadata name="Document.ЗаказПокупателя.Form.ФормаДокумента.Form" id="5c403676-8a48-45ee-b830-019640ffe77c.0" configVersion="f5cd6b4f8346c062773ba4fc9cd8d0a6dcfde9ae"/>
+		<Metadata name="Document.ЗаказПокупателя.Form.ФормаДокумента" id="5c403676-8a48-45ee-b830-019640ffe77c" configVersion="cc0baf6daca179e4f789fcddee26b8caf834b8ee"/>
+		<Metadata name="Document.ЗаказПокупателя.Form.ФормаДокумента.Form" id="5c403676-8a48-45ee-b830-019640ffe77c.0" configVersion="d4926ba2ae8b5202039a5d6cb185c6c6968954b7"/>
 		<Metadata name="Document.уз_Задача" id="8640a758-e40d-4436-8b0f-64e0f675383a" configVersion="bc7623d4b3496a6129c8dd4b871737fb97926072">
 			<Metadata name="Document.уз_Задача.Attribute.Комментарий" id="12b6b4f5-757d-41c8-b74d-4f3573fdedff"/>
 			<Metadata name="Document.уз_Задача.Attribute.ЧасыПлан" id="22419c4e-50a4-48e9-a579-64b5d28fd00e"/>
@@ -67,7 +67,7 @@
 		<Metadata name="Language.Русский" id="33509225-d76f-4855-84e0-f71ee975c60a" configVersion="addbea509d0c0c2e858c2013b522194f76b3b3b0"/>
 		<Metadata name="Report.уз_ОтчетПоЗадачам" id="1013a936-7c1e-4aa4-b65f-b8c41f247dba" configVersion="5bd6efafe10a857387c41f5ec7355b4294ddec02"/>
 		<Metadata name="Report.уз_ОтчетПоЗадачам.Template.ОсновнаяСхемаКомпоновкиДанных" id="6a0870f1-eee4-4991-a0e6-948ebc161fcb" configVersion="29823f390639f976105462bab6f6db83c636abd9"/>
-		<Metadata name="Report.уз_ОтчетПоЗадачам.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="6a0870f1-eee4-4991-a0e6-948ebc161fcb.0" configVersion="b2af09fff425abe33b5240148e0b69762b7dd916"/>
+		<Metadata name="Report.уз_ОтчетПоЗадачам.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="6a0870f1-eee4-4991-a0e6-948ebc161fcb.0" configVersion="01db2668b9f183be130ef20279458db4336bcf4c"/>
 		<Metadata name="Role.уз_ОсновнаяРоль" id="6de4e017-9cab-44b9-8760-bb7f9523f8a1" configVersion="02dbdbbeb0f8d2e2ad71d3f26d13f51dfc8ffc81"/>
 		<Metadata name="StyleItem.ИтогиФонГруппы" id="8f7df793-eb28-422b-958c-6ef98aeb56ef" configVersion="3ee75177d1464b6f3a645aec68e497f3c18ff385"/>
 		<Metadata name="StyleItem.ПоясняющийТекст" id="f867cea7-e58f-44b1-b0d4-42c6a8a385dc" configVersion="717f208f3bf1afef0daf8e390d49ae2b33d4a769"/>
